@@ -10,6 +10,8 @@ This is a simple login form made with vanilla JavaScript, HTML, and CSS. Your jo
 1. [Adjust CSS so that form is centered on page](https://github.com/developer-job-simulation/vanilla-login-form/issues/5)
 1. [Validate User Credentials & show validation status message](https://github.com/developer-job-simulation/vanilla-login-form/issues/6)
 
+[Source](https://www.reddit.com/r/learnprogramming/comments/yrepyf/do_you_want_to_simulate_a_real_software/)
+
 ## Learning Objectives
 
 You will learn and gain experience with:
